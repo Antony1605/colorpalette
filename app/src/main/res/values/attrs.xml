@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="tb_thumbRadius" format="dimension" />
+    <attr name="tb_thumbColor" format="dimension" />
+    <attr name="tb_thumbStrokeColor" format="dimension" />
+    <attr name="tb_thumbColorCircleScale" format="dimension" />
+
+    <declare-styleable name="ColorPicker">
+        <attr name="tb_thumbRadius" />
+        <attr name="tb_thumbColor" />
+        <attr name="tb_thumbStrokeColor" />
+        <attr name="tb_thumbColorCircleScale" />
+    </declare-styleable>
+
+</resources>
